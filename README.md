@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Helmi Rifqi Nasrullah Sukaton 👋</h1>
 <h3 align="center">🚀 Educator in Tech | Full-Stack & Network Developer | AI & IoT Enthusiast</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helmirifqiii" alt="helmirifqiii" /></a> </p>
-
 - 🔭 I’m currently working on [Daksha FT UNESA](https://daksha.id/)
 
 - 🌱 I’m currently learning **n8n Workflows, Next.js, and Cloud Infrastructure**
