@@ -1,30 +1,20 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=500&lines=Hi+there%2C+I'm+Helmi+Rifqi+👋;Educator+in+Tech+🚀;Full-Stack+%26+Network+Developer;AI+%26+IoT+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Hi+there,+I'm+Helmi+Rifqi+👋;🚀+Educator+in+Tech;💻+Full-Stack+Developer;🌐+Network+Developer;🤖+AI+%26+IoT+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helmirifqiii&label=Profile%20views&color=0e75b6&style=flat-square" alt="helmirifqiii" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raghavx/raghavx/multi-media/assets/developer.gif" width="400" alt="Coding Animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=helmirifqiii&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br />
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=helmirifqiii&theme=onedark&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=helmirifqiii&theme=tokyonight&no-bg=false&no-frame=false" alt="helmirifqiii" />
   </a>
-</div>
+</p>
 
 ---
 
-### ⚡ About Me
+## ⚡ Abot Me
 
 ```text
   _   _      _ mi
